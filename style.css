@@ -1,0 +1,66 @@
+body{
+/* background-color:  skyblue; */
+background-image: url(brush.jpeg);
+background-repeat: no-repeat;
+background-size:cover ;
+
+}
+.dog{
+    margin-left: 25rem;
+    display: inline-block;
+
+}
+.dogImg{
+    background-color: rgb(159, 210, 230);
+}
+.dogImg img{
+    float: left;
+    margin-left: 3rem;
+}
+.image{
+    width: 5%;
+    height: 5%;
+    margin-bottom: 1rem;
+    /* border: 1px solid white; */
+}
+.container{
+    display: flex;
+    /* margin-right: 20rem; */
+    text-align: center;
+    
+}
+.cute{
+    width: 10%;
+    height: 10%;
+    margin-left: 10rem;
+    margin-bottom: 20rem;
+}
+.car{
+    /* border: 1px solid white; */
+    /* margin-left: rem; */
+    margin-top: 5rem;
+}
+.car h3{
+    margin-left: 20rem;
+    font-size: 2.5rem;
+    color: #ea738d;
+    /* margin-bottom: 5rem; */
+    /* border: 1px solid red; */
+}
+.slot img{
+    height: 18vmax;
+    width: 18vmax;
+    margin-left: 30rem;
+    padding: 2em;
+    border-radius: 50%;
+    /* border: 1px solid red ; */
+}
+select{
+    /* border: 1px solid red; */
+    border-radius: 0.5rem;
+    width: 9rem;
+    height: 2rem;
+    margin-left: 34rem;
+    box-shadow: 1rem #ccc;
+    
+}
